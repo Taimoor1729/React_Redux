@@ -1,0 +1,6 @@
+export { buyCake } from './cake/cakeActions'
+export { buyIceCream } from './iceCream/iceCreamAction'
+export { buyDrink } from './drink/drinkActions'
+export { fetchUserRequest } from './user/userActions'
+export { fetchUserSuccess } from './user/userActions'
+export { fetchUserFailure } from './user/userActions'
